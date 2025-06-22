@@ -7,7 +7,7 @@ This project is built in C and centers around unit testing, putting into practic
 
 💡 The goal is to demonstrate real-world application of software testing techniques, complete with planning, execution, and reporting.
 
-🧪 Testing Techniques Used
+🧪 Testing Techniques Used 
 Here’s a breakdown of the core testing strategies implemented:
 
 Technique	Description
